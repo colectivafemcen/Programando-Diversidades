@@ -6,8 +6,10 @@ Este módulo se divide en cuatro submódulos: <br>
 * JavaScript
 * Machine Learning <br>
 <br>
-## Submódulo de Python <br>
+
+# Submódulo de Python 
 Este contará con seis talleres: <br>
+
 |              Fecha y hora             |        Tema del taller        |       Ponente      |
 |:-------------------------------------:|:-----------------------------:|:------------------:|
 |   Miércoles 1 Septiembre Hora:18:00   |     Introducción a python     |   Maryi Carvajal   |
@@ -16,3 +18,5 @@ Este contará con seis talleres: <br>
 | Miércoles 22 Septiembre  Hora: 18:00  | Análisis estadístico - Básico |    Nicole Rivera   |
 |  Miércoles 29 Septiembre  Hora: 18:00 |        Pandas - Básico        |  Carolina Herrera  |
 |    Miércoles 6 Octubre  Hora: 18:00   |       Pandas - Avanzado       | Valentina Roquemen |
+
+En la carpeta Python podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
