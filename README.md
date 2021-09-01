@@ -6,7 +6,7 @@ Este módulo se divide en cuatro submódulos: <br>
 * JavaScript
 * Machine Learning <br>
 <br>
-## Submódulo de Python
+## Submódulo de Python <br>
 Este contará con seis talleres: <br>
 |              Fecha y hora             |        Tema del taller        |       Ponente      |
 |:-------------------------------------:|:-----------------------------:|:------------------:|
