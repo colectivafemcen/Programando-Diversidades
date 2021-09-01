@@ -11,4 +11,9 @@ En esta carpeta podrás encontrar lo siguiente: <br>
 
 ## 1. Instalación
 
-En el archivo Anaconda_tutorial.pdf podrás encontrar un simple turorial para la instalación de Python en tu computador con ayuda de Anaconda
+En el archivo Anaconda_tutorial.pdf podrás encontrar un simple turorial para la instalación de Python en tu computador con ayuda de Anaconda.
+
+## 2. Introducción a Python 
+Puedes encontrar en el notebook Programando_diversidades_python_s1.ipynb los ejemplos desarrollados en la primera sesión.
+
+
