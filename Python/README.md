@@ -16,4 +16,5 @@ En el archivo Anaconda_tutorial.pdf podrás encontrar un simple turorial para la
 ## 2. Introducción a Python 
 Puedes encontrar en el notebook Programando_diversidades_python_s1.ipynb los ejemplos desarrollados en la primera sesión.
 
-
+## 3. Numpy y Matplotlib - Básico
+En el notebook ProgramandoDiversidades_sesion2.ipynb puedes encontrar los ejercicios desarrollados en la segunda sesión.
