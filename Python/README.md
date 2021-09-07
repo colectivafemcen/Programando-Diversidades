@@ -1,6 +1,6 @@
 # Submódulo de Python
 
-En esta carpeta podrás encontrar lo siguiente: <br>
+En esta carpeta podrás encontrar el siguiente contenido: <br>
 1. Instalación 
 2. Introducción a Python 
 3. Numpy y Matplotlib - Básico
