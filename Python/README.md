@@ -20,7 +20,7 @@ Lo primero es que eso depedende del tipo de archivo con el que vayamos a trabaja
 En el archivo Anaconda_tutorial.pdf podrás encontrar un simple turorial para la instalación de Python en tu computador con ayuda de Anaconda. Recuerda que en caso de tener algún tipo de dificultad o si simplemente si quieres contar con apoyo, contamos con una comunidad en Slack para ayudarte en todo.
 
 ## 2. Introducción a Python 
-Puedes encontrar en el notebook Programando_diversidades_python_s1.ipynb los ejemplos desarrollados en la primera sesión. Para ejecutar este notebook también es necesario que descargues el archivo de texto hist.txt.
+Puedes encontrar en el notebook Programando_diversidades_python_s1.ipynb los ejemplos desarrollados en la primera sesión. Para ejecutar este notebook también es necesario que descargues el archivo de texto hist.txt. Adicionalmente puedes poner en práctica lo que trabajamos en esta sesión con el notebook Programando_diversidades_python_s1_Ejercicios.ipynb, anímate a hacer los ejercicios y compartirnos tus dudas o comentarios a través de los foros de Slack.
 
 ## 3. Numpy y Matplotlib - Básico
 En el notebook ProgramandoDiversidades_sesion2.ipynb puedes encontrar los ejercicios desarrollados en la segunda sesión.
