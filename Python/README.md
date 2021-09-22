@@ -24,3 +24,9 @@ Puedes encontrar en el notebook Programando_diversidades_python_s1.ipynb los eje
 
 ## 3. Numpy y Matplotlib - Básico
 En el notebook ProgramandoDiversidades_sesion2.ipynb puedes encontrar los ejercicios desarrollados en la segunda sesión.
+
+## 4. Graficación avanzada
+Puedes encontrar en el notebook Programando_Diversidades_Taller_3.ipynb los ejemplos desarrollados en la tercera sesión. Para ejecutar este notebook también es necesario que descargues el archivo de texto Temperature_anomalies.csv y seasonal_cycle.csv para su correcto funcionamiento.
+
+## 5. Análisis estadístico - Básico
+En el notebook ProgramandoDiversidades_sesion4.ipynb puedes encontrar los ejercicios desarrollados en la cuarta sesión.
