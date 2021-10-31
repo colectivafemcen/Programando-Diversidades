@@ -17,9 +17,9 @@ Este contará con seis talleres: <br>
 |  Miércoles 3 de Noviembre Hora: 18:00 |Análisis de bases de datos: Covid 19 en Colombia (parte I)|   Sara Garcés   |
 | Miércoles 10 de Noviembre Hora: 18:00  |Análisis de bases de datos: Covid 19 en Colombia (parte II)|    Ana Maria Sánchez  |
 |  Miércoles 17 de Noviembre Hora: 18:00 | Funciones, estructuras de control y manejo de datos | Alejandra Acevedo  |
-|    Miércoles 24 de Noviembre Hora: 18:00   |       Pandas - Avanzado       | Valentina Roquemen |
+|    Miércoles 24 de Noviembre Hora: 18:00   |      Introducción a Shiny      | Valentina García |
 
-En la carpeta Python podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
+En la carpeta R podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
 
 
 
