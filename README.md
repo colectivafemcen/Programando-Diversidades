@@ -7,6 +7,22 @@ Este módulo se divide en cuatro submódulos: <br>
 * Machine Learning <br>
 <br>
 
+# Submódulo de R
+Este contará con seis talleres: <br>
+
+|              Fecha y hora             |        Tema del taller        |       Ponente      |
+|:-------------------------------------:|:-----------------------------:|:------------------:|
+|   Miércoles 20 de Octubre Hora:18:00  |        Introducción a R       |     Olga Usuga     |
+|   Miércoles 27 de Octubre Hora: 18:00 |     Conceptos básicos de R    | Alejandra Londoño  |
+|  Miércoles 3 de Noviembre Hora: 18:00 |      Graficación avanzada     |   Maryi Carvajal   |
+| Miércoles 10 de Noviembre Hora: 18:00  | Análisis estadístico - Básico |    Nicole Rivera   |
+|  Miércoles 17 de Noviembre Hora: 18:00 |        Pandas - Básico        |  Carolina Herrera  |
+|    Miércoles 24 de Noviembre Hora: 18:00   |       Pandas - Avanzado       | Valentina Roquemen |
+
+En la carpeta Python podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
+
+
+
 # Submódulo de Python 
 Este contará con seis talleres: <br>
 
