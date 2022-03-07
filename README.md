@@ -7,6 +7,21 @@ Este módulo se divide en cuatro submódulos: <br>
 * Machine Learning <br>
 <br>
 
+# Submódulo de Machine Learning
+Este contará con seis talleres: <br>
+
+|              Fecha y hora             |        Tema del taller        |       Ponente      |
+|:-------------------------------------:|:-----------------------------:|:------------------:|
+| Miércoles 9 de Marzo Hora:18:00 |   Presentación del módulo e Introducción al Machine Learning      |     Todas las ponentes    |
+| Miércoles 16 de Marzo Hora: 18:00 |     Imágenes médicas y Machine Learning    | Cindy González y Sheryl Avendaño  |
+| Miércoles 23 de Marzo Hora: 18:00 | Machine Learning en geofísica |   Maria Plata  |
+| Miércoles 30 de Marzo Hora: 18:00 | Data science: Basic models |    Xibelly Mosquera |
+| Miércoles 17 de Noviembre Hora: 18:00 | Funciones, estructuras de control y manejo de datos |   |
+|    Miércoles 24 de Noviembre Hora: 18:00   |      Introducción a Shiny      | Valentina García |
+
+En la carpeta R podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
+
+
 # Submódulo de R
 Este contará con seis talleres: <br>
 
