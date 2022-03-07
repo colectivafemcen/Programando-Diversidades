@@ -12,14 +12,14 @@ Este contará con seis talleres: <br>
 
 |              Fecha y hora             |        Tema del taller        |       Ponente      |
 |:-------------------------------------:|:-----------------------------:|:------------------:|
-| Miércoles 9 de Marzo Hora:18:00 |   Presentación del módulo e Introducción al Machine Learning      |     Todas las ponentes    |
-| Miércoles 16 de Marzo Hora: 18:00 |     Imágenes médicas y Machine Learning    | Cindy González y Sheryl Avendaño  |
-| Miércoles 23 de Marzo Hora: 18:00 | Machine Learning en geofísica |   Maria Plata  |
-| Miércoles 30 de Marzo Hora: 18:00 | Data science: Basic models |    Xibelly Mosquera |
-| Miércoles 17 de Noviembre Hora: 18:00 | Funciones, estructuras de control y manejo de datos |   |
-|    Miércoles 24 de Noviembre Hora: 18:00   |      Introducción a Shiny      | Valentina García |
+| Miércoles 9 de Marzo Hora:18:00   | Presentación del módulo e Introducción al Machine Learning |     Todas las ponentes    |
+| Miércoles 16 de Marzo Hora: 18:00 | Imágenes médicas y Machine Learning | Cindy González y Sheryl Avendaño  |
+| Miércoles 23 de Marzo Hora: 18:00 | Machine Learning en geofísica | Maria Plata  |
+| Miércoles 30 de Marzo Hora: 18:00 | Data science: Basic models | Xibelly Mosquera |
+| Miércoles 6 de Abril Hora: 18:00  | Redes neuronales convolucionales |  Sheryl Avendaño |
+| Miércoles 13 de Abril Hora: 18:00 | Business intelligence   | Eliana Herran |
 
-En la carpeta R podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
+En la carpeta Machine Learning podrás encontrar todo el material de las sesiones, incluyendo manuales, notebooks e instrucciones para que puedas leerlo.
 
 
 # Submódulo de R
